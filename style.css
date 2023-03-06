@@ -1,0 +1,48 @@
+/* header {
+    background-color: blue;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+  } */
+.main{
+  border: 2px solid grey;
+  width: 130px;
+  margin: auto;
+  height: 200px;
+  margin-top: 20px;
+}
+.button,.number{
+  margin-top: 10px;
+  margin-left: 4px;
+}
+.button:hover{
+  background-color: lightblue;
+}
+.clear{
+  margin-top: 10px;
+  margin-left: 4px;
+  width: 120px;
+}
+.equalsto{
+  margin-top: 10px;
+  margin-left: 4px;
+  background-color: lightgreen;
+  width: 30%;
+}
+.zero{
+  margin-top: 10px;
+  margin-left: 19px;
+  width: 30%;
+}
+.zero:hover{
+  background-color: lightblue;
+}
+#userinput{
+  width: 110px;
+}
+h1{
+  text-align: center;
+}
+.clear:hover{
+  background-color: lightblue;
+}
